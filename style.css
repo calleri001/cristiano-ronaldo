@@ -3,3 +3,8 @@ body {background-color: #74EBD5;
     
 
 }
+
+header {
+    display: flex;
+    justify-content: center;
+}
